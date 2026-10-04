@@ -2,8 +2,6 @@
 
 **Three islands. Two runways. One last stand.**
 
-Wake **0.3.9** · BDF Last Stand **0.1.5** · Flight Support **0.1.1**
-
 [Download both missions](https://github.com/Kelly-D-Ripper/KELLYS-Wake-Island/releases/latest)
 
 - **Free Flight:** two offshore Penumbra carriers and one neutral, capturable island airfield.
