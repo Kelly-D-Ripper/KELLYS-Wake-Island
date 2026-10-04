@@ -2,12 +2,12 @@
 
 **Three islands. Two runways. One last stand.**
 
-Wake **0.3.10** · BDF Last Stand **0.1.6** · Flight Support **0.1.1**
+Wake **0.3.9** · BDF Last Stand **0.1.5** · Flight Support **0.1.1**
 
 [Download both missions](https://github.com/Kelly-D-Ripper/KELLYS-Wake-Island/releases/latest)
 
 - **Free Flight:** two offshore Penumbra carriers and one neutral, capturable island airfield.
-- **BDF Last Stand:** BDF-only cooperative island defence against fleets, landing craft, transports and missile raids. Hold for 45 minutes until reinforcements arrive.
+- **BDF Last Stand:** cooperative island defence against fleets, landing craft, transports and missile raids. Hold for 45 minutes until reinforcements arrive.
 
 Native towns and bridges, compact runways and four mission helipads. Cleaner aprons, balanced departure queues, bounded aircraft waves, lighter landing cargo and reduced distant terrain geometry improve workload; FPS still needs playtesting.
 
