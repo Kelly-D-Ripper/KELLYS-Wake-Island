@@ -28,3 +28,7 @@ Geography: public-domain NOAA elevation and OpenStreetMap contributors, ODbL. No
 Yes, this map and both missions were built with AI. My part was directing the agents, making the creative decisions and testing everything in-game.
 This started as a proof of concept for automated map generation using real-world terrain data. Now we’ve got Wake Island and a full co-op defence mission to play.
 Make of that what you will. I think it’s fucking wicked, and I’m going to keep building.**
+
+## Disclaimer
+
+This project is an unofficial community modification and is not affiliated with, sponsored by, or endorsed by Shockfront Studios Pty Ltd. Original Nuclear Option assets, vehicle designs, audio, and code are Copyright (c) 2026 Shockfront Studios Pty Ltd. All rights reserved. Nuclear Option and Shockfront Studios are trademarks or registered trademarks of Shockfront Studios Pty Ltd. Original mod content and all other trademarks belong to their respective owners.
