@@ -2,12 +2,16 @@
 
 **Three islands. Two runways. One last stand.**
 
+Wake **0.3.11** · BDF Last Stand **0.1.7** · Flight Support **0.1.2**
+
 [Download both missions](https://github.com/Kelly-D-Ripper/KELLYS-Wake-Island/releases/latest)
 
 - **Free Flight:** two offshore Penumbra carriers and one neutral, capturable island airfield.
-- **BDF Last Stand:** cooperative island defence against fleets, landing craft, transports and missile raids. Hold for 45 minutes until reinforcements arrive.
+- **BDF Last Stand:** BDF-only cooperative island defence against fleets, landing craft, transports and missile raids. Hold for 45 minutes until reinforcements arrive.
 
-Native towns and bridges, compact runways and four mission helipads. Cleaner aprons, balanced departure queues, bounded aircraft waves, lighter landing cargo and reduced distant terrain geometry improve workload; FPS still needs playtesting.
+Native towns, connected bridges, two runways and four mission helipads. This update adds native grass, native pavement materials, cleaner natural roads and 28 new Wake Tower announcements. Houses, facilities and landing approaches stay connected.
+
+Last Stand is now actually PvE: players can only join BDF. Balancing will continue as testing and feedback come in.
 
 ## Install
 
@@ -22,10 +26,10 @@ Host and clients need matching files and these separately installed dependencies
 
 Geography: public-domain NOAA elevation and OpenStreetMap contributors, ODbL. No game or third-party mod binaries are redistributed.
 
-# **AI disclosure**
+## AI disclosure
 Yes, this map and both missions were built with AI. My part was directing the agents, making the creative decisions and testing everything in-game.
 This started as a proof of concept for automated map generation using real-world terrain data. Now we’ve got Wake Island and a full co-op defence mission to play.
-Make of that what you will. I think it’s fucking wicked, and I’m going to keep building.**
+Make of that what you will. I think it’s fucking wicked, and I’m going to keep building.
 
 ## Disclaimer
 
