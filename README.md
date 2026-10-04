@@ -17,7 +17,7 @@ Close the game, extract the ZIP:
 
 1. Copy `maps/*.nomap` into `BepInEx/plugins/NOCustomMaps/maps/`. Move older Wake bundles elsewhere.
 2. Copy `plugins/KellysWakeFlightSupport.dll` into `BepInEx/plugins/`.
-3. Copy **both folders** from `Missions/` into `%USERPROFILE%/AppData/LocalLow/Shockfront/NuclearOption/Missions/`.
+3. (optional for playing locally and editing missions) Copy **both folders** from `Missions/` into `%USERPROFILE%/AppData/LocalLow/Shockfront/NuclearOption/Missions/`.
 4. Start a fresh User mission. Join **BDF** for Last Stand.
 
 Host and clients need matching files and these separately installed dependencies: **BepInEx, NOCustomMaps, Blueprinter, Aryx Weapons Pack, Eclipse/Penumbra, Naval Expansion, MC-260 Chimera, F-16M King Viper, F-22E Strike Raptor, F-99 Shrike and RAH-72 Knockout**.
