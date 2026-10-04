@@ -23,3 +23,5 @@ Close the game, extract the ZIP:
 Host and clients need matching files and these separately installed dependencies: **BepInEx, NOCustomMaps, Blueprinter, Aryx Weapons Pack, Eclipse/Penumbra, Naval Expansion, MC-260 Chimera, F-16M King Viper, F-22E Strike Raptor, F-99 Shrike and RAH-72 Knockout**.
 
 Geography: public-domain NOAA elevation and OpenStreetMap contributors, ODbL. No game or third-party mod binaries are redistributed.
+
+** # This whole map and both missions were entirely AI created. My only work has been guiding the agents, testing the map and making creative decisions. This was a proof of concept for automated map generation using real world terrain data. Make of this what you will but I'm pretty happy with the result so far. **
