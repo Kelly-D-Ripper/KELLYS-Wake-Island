@@ -24,4 +24,4 @@ Host and clients need matching files and these separately installed dependencies
 
 Geography: public-domain NOAA elevation and OpenStreetMap contributors, ODbL. No game or third-party mod binaries are redistributed.
 
-** # This whole map and both missions were entirely AI created. My only work has been guiding the agents, testing the map and making creative decisions. This was a proof of concept for automated map generation using real world terrain data. Make of this what you will but I'm pretty happy with the result so far. **
+#  **This whole map and both missions were entirely AI created. My only work has been guiding the agents, testing the map and making creative decisions. This was a proof of concept for automated map generation using real world terrain data. Make of this what you will but I'm pretty happy with the result so far.**
